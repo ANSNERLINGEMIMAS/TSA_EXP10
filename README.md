@@ -127,6 +127,9 @@ plt.show()
 ```
 ### OUTPUT:
 
+<img width="327" height="289" alt="image" src="https://github.com/user-attachments/assets/bc27f202-3c6f-4458-9185-dcb8c2ab9a9b" /><br>
+<img width="338" height="219" alt="image" src="https://github.com/user-attachments/assets/d248f93d-c205-4ecc-90ba-1088e634fbfc" /><br>
+<img width="299" height="225" alt="image" src="https://github.com/user-attachments/assets/47d53b06-fa7b-4c1f-83a8-b2a5e379f2af" /><br>
 <img width="388" height="290" alt="image" src="https://github.com/user-attachments/assets/858da9b9-df0a-4465-b662-a49c7aa3dcf6" />
 
 
